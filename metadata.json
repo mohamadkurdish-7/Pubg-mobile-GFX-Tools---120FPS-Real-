@@ -1,0 +1,6 @@
+{
+  "name": "BattleGFX Tool",
+  "description": "Advanced graphics customization tool for mobile gaming. Customize resolution, frame rates up to 120 FPS, texture quality, shadow rendering, MSAA, and export optimized configs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
